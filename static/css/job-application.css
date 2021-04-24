@@ -1,0 +1,125 @@
+#job-application .select2-selection.select2-selection--single {
+  height: 44px;
+}
+
+#job-application .select2-selection__rendered {
+  line-height: 20px;
+  padding: 12px;
+}
+
+#job-application hr.divider {
+  margin: 50px 0px;
+}
+
+#job-application input {
+  margin-right: 10px;
+}
+
+#job-application label {
+  width: 340px;
+}
+
+#job-application label.question-long {
+  width: 100%;
+}
+
+#job-application label.question {
+  font-weight: 550;
+}
+
+#job-application label.options {
+  width: 220px;
+}
+
+#job-application .extra-spacing {
+  margin-bottom: 15px;
+}
+
+#job-application .submit-section {
+  height: 100px;
+  text-align: center;
+}
+
+#job-application .dropzone.dz-clickable {
+  margin-bottom: 40px;
+}
+
+#job-application .language-removal {
+  margin-top: 6px;
+}
+
+#job-application .form-group {
+  margin-bottom: 25px;
+}
+
+#job-application .crop-btn {
+	margin-bottom: 20px;
+}
+
+.tutoring-type {
+	width: 30%;
+}
+
+.tutoring-price {
+	width: 20%;
+}
+
+.tutoring-classes {
+	width: 50%;
+}
+
+#trialQ, #salaryQ, #toolQ, #paydayQ, #paymentQ, #cancelQ, #missedQ {
+	padding-left: 18px;
+}
+
+hr.beefy {
+	margin: 55px 0px;
+}
+
+#terms-conditions-block {
+	font-size: 13px;
+	margin-left: 25px;
+}
+.salary-table {
+	font-size: 14px;
+}
+
+#salaryTable label.error {
+  margin-top: 10px;
+}
+
+.dropzone {
+  border-radius: 4px;
+}
+
+#resumeContainer {
+  margin-bottom: 40px;
+}
+
+#resumeContainer .dropzone {
+  margin-bottom: 0px !important;
+}
+
+#resumeContainer .dropzone.has-error {
+  border-color: #a94442 !important;
+}
+
+#resumeContainer .error {
+  font-weight: 400;
+}
+
+.form-control input {
+  border-color: #ccc;
+}
+
+.form-control select {
+  border-color: #ccc;
+}
+
+.has-error .form-control {
+  border-color: #a94442 !important;
+}
+
+.has-success .form-control {
+  border-color: #3c763d !important;
+}
